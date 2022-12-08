@@ -1,6 +1,6 @@
 # Patterns learning
 
-- [ ] Strategy
+- [x] Strategy
 - [ ] Chain of Responsibility;
 - [ ] Observer;
 - [ ] Publisher/Subscriber
