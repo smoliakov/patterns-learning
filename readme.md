@@ -3,7 +3,7 @@
 ## Behavioral patterns
 
 - [x] Strategy
-- [ ] Chain of Responsibility
+- [x] Chain of Responsibility
 - [ ] Observer
 - [ ] Command
 - [ ] Iterator
