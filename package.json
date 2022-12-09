@@ -2,7 +2,8 @@
   "name": "patterns-learning",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "patterns/index.ts",
+  "keywords": ["typescript", "design-patterns"],
   "scripts": {
     "start": "ts-node patterns/index.ts"
   },

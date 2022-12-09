@@ -1,1 +1,1 @@
-import './strategy';
+import './behavioral';

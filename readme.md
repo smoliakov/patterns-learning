@@ -1,6 +1,15 @@
-# Patterns learning
+# Patterns learning in Typescript
+
+## Behavioral patterns
 
 - [x] Strategy
 - [ ] Chain of Responsibility
 - [ ] Observer
-- [ ] Publisher/Subscriber
+- [ ] Command
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] State
+- [ ] Template Method
+- [ ] Visitor
