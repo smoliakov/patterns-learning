@@ -13,3 +13,7 @@
 - [ ] State
 - [ ] Template Method
 - [ ] Visitor
+
+## References
+
+- https://habr.com/ru/company/timeweb/blog/699408/
